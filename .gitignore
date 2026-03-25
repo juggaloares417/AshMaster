@@ -1,0 +1,19 @@
+# Gradle files
+.gradle/
+**/build/
+**/.idea/
+**/*.iml
+local.properties
+
+# Android/IntelliJ
+*.apk
+*.aab
+*.ap_
+*.hprof
+.cxx/
+
+# Kotlin/Java
+*.log
+
+# Misc
+.DS_Store

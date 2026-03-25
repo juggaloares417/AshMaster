@@ -1,4 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AshMaster</string>
+    <string name="app_title">AshShell Release Hub</string>
+    <string name="app_subtitle">AshShell + AshForge</string>
+    <string name="app_summary">A quick snapshot of the latest AshShell updates powered by the new AshForge workflows and tooling.</string>
+    <string name="highlights_title">Highlights</string>
+    <string name="highlights_caption">Fresh capabilities that shipped with the latest AshForge drops:</string>
+    <string name="roadmap_title">Roadmap</string>
+    <string name="roadmap_caption">What we are lining up next to keep AshShell fast and reliable:</string>
+    <string name="roadmap_item_one">• Integrate cross-platform session resume with AshForge sync primitives.</string>
+    <string name="roadmap_item_two">• Expand offline command cache with smarter diffing and verification.</string>
+    <string name="roadmap_item_three">• Ship progressive rollout tooling with real-time observability hooks.</string>
 </resources>
